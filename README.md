@@ -1,7 +1,7 @@
 # Notako_bot
 This is a terminal Notko game that you play against a bot, but you never win.
 
-******AI always move first******
+'******AI always move first******'
 =============Move 1=============
         A      B      C
      0 1 2  0 1 2  0 1 2
