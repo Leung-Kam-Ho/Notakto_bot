@@ -1,7 +1,15 @@
 # Notako_bot
-This is a Notko game that you play against a bot, but you never win.
+This is a terminal Notko game that you play against a bot, but you never win.
 
-<img width="233" alt="Screenshot 2022-03-26 at 20 13 46" src="https://user-images.githubusercontent.com/71874669/160238929-e51723a0-5b61-4cf0-be58-cbd51b43507a.png">
+******AI always move first******
+=============Move 1=============
+        A      B      C
+     0 1 2  0 1 2  0 1 2
+     3 4 5  3 4 5  3 4 5
+     6 7 8  6 7 8  6 7 8
+--------------------------------
+AI moved A4
+
 
 
 # What is Notako?
