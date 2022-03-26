@@ -9,6 +9,6 @@ Notakto is a tic-tac-toe variant, also known as neutral or impartial tic-tac-toe
 
 # Off Topic 
 
-It is an old project and at that time i don't write comment, but it is easy to understand, so just add oil
+It is an old project and at that time i don't write comment, but it is easy to understand, just add oil
 
 
