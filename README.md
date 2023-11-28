@@ -1,5 +1,5 @@
 # Notakto_bot
-This is a terminal Notakto game that you play against a bot, but you never win.
+This is a terminal Notakto game that you play against a bot, but you will never win.
 
 ```
 ******AI always move first******
